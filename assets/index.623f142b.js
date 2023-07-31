@@ -1,0 +1,1 @@
+import{B as e,C as r}from"./arco.873a837e.js";import{_ as o}from"./index.f52607ec.js";import"./chart.2547f6b7.js";import"./vue.af73a9e2.js";const t={};function c(n,s){return e(),r("div",null,"\u6570\u636E\u5927\u5C4F")}const f=o(t,[["render",c]]);export{f as default};
